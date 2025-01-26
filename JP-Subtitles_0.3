@@ -7,8 +7,8 @@
 // @match        https://www.youtube.com/*
 // @icon        https://www.google.com/s2/favicons?sz=64&domain=youtube.com
 // @grant        none
-// @updateURL        ttps://github.com/personwritep/JP-Subtitles/raw/main/JP-Subtitles.user.js
-// @downloadURL        ttps://github.com/personwritep/JP-Subtitles/raw/main/JP-Subtitles.user.js
+// @updateURL        https://github.com/personwritep/JP-Subtitles/raw/main/JP-Subtitles.user.js
+// @downloadURL        https://github.com/personwritep/JP-Subtitles/raw/main/JP-Subtitles.user.js
 // ==/UserScript==
 
 
